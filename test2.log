@@ -1,0 +1,8 @@
+Duplicate label found: label at line 2
+Unknown mnemonic 'fibble'
+Unknown mnemonic '0def'
+Warning: No HALT instruction found.
+Error processing operand: nonesuch
+Error processing operand: 08ge
+Warning: Label '0def' defined but never used
+Warning: Label 'label' defined but never used
